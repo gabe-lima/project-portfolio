@@ -7,9 +7,9 @@ function App() {
 
   return (
     <BrowserRouter>
-      <Analytics/>
       <Navbar />
       <AppRoutes />
+      <Analytics/>
     </BrowserRouter>
   );
 }
