@@ -10,7 +10,7 @@ const projetos = [
         imagem: imgMsJJ,
         tecnologias: ['React', 'TypeScript', 'CSS'],
         linkVercel: 'https://ms-jiujitsu.vercel.app/',
-        linkGithub: 'https://github.com/gabe-lima/ms-jiujitsu',
+        linkGithub: 'https://github.com/gabe-lima?tab=repositories',
     },
 
     {
@@ -19,7 +19,7 @@ const projetos = [
         imagem: imgEletroline,
         tecnologias: ['React', 'TypeScript', 'CSS'],
         linkVercel: 'https://eletroline.com.br/',
-        linkGithub: null,
+        linkGithub: 'https://github.com/gabe-lima?tab=repositories',
     },
     // adicione novos projetos aqui
 ]
