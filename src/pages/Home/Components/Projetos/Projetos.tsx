@@ -15,7 +15,7 @@ const projetos = [
 
     {
         nome: 'Eletroline Eletrônica',
-        descricao: 'Projeto real de um site para uma assistência técnica autorizada e renomada, de marcas como JBL, Harman, Crown, etc.',
+        descricao: 'Projeto real de um site para uma assistência técnica autorizada e renomada, de marcas como JBL, Harman, Crown, etc. Neste projeto, a ideia é a captação de lead, informação e consultas de Ordem de Serviço dos clientes.',
         imagem: imgEletroline,
         tecnologias: ['React', 'TypeScript', 'CSS'],
         linkVercel: 'https://eletroline.com.br/',
