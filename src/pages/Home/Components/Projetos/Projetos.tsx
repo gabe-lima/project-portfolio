@@ -11,6 +11,15 @@ const projetos = [
         linkVercel: 'https://ms-jiujitsu.vercel.app/',
         linkGithub: 'https://github.com/gabe-lima/ms-jiujitsu',
     },
+
+    {
+        nome: 'Eletroline Eletrônica',
+        descricao: 'Projeto real de um site para uma assistência técnica autorizada e renomada, de marcas como JBL, Harman, Crown, etc.',
+        imagem: imgMsJJ,
+        tecnologias: ['React', 'TypeScript', 'CSS'],
+        linkVercel: 'https://eletroline.com.br/',
+        linkGithub: 'https://github.com/gabe-lima/ms-jiujitsu',
+    },
     // adicione novos projetos aqui
 ]
 
