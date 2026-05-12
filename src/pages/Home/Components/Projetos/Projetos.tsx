@@ -1,6 +1,7 @@
 import './Projetos.css'
 import { ProjectCard } from '../../../../components/ProjectCard/ProjectCard'
 import imgMsJJ from '../../../../assets/imgMsJJ.png'
+import imgEletroline from '../../../../assets/imgEletroline.png'
 
 const projetos = [
     {
@@ -15,7 +16,7 @@ const projetos = [
     {
         nome: 'Eletroline Eletrônica',
         descricao: 'Projeto real de um site para uma assistência técnica autorizada e renomada, de marcas como JBL, Harman, Crown, etc.',
-        imagem: imgMsJJ,
+        imagem: imgEletroline,
         tecnologias: ['React', 'TypeScript', 'CSS'],
         linkVercel: 'https://eletroline.com.br/',
         linkGithub: 'https://github.com/gabe-lima/ms-jiujitsu',
